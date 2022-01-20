@@ -1,8 +1,6 @@
 <html>
-<head>
-<title>This is my first html page.</title>
-</head>
+<header><title>This is title</title></header>
 <body>
-welcome to my first </br> html page.
+This Is My Html Assignment
 </body>
 </html>
